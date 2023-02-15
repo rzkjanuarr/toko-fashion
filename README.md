@@ -6,6 +6,7 @@
 ## ⚡ Tech Stack
 
 - Next JS
+- Flowbite
 - Tailwind CSS
 
 ## Screenshots
